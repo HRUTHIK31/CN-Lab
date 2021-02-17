@@ -1,1 +1,2 @@
 
+Today is the last exercise of computer network on Distance Vector Routing. In this you can set four nodes in a network and check the link cost based on the latency of sending a message to one and another. Once you have the latency, use it as a cost and implement the program using socket (TCP). Requirement is to simulate the working of Distance vector routing through socket programming. 
