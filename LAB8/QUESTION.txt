@@ -1,1 +1,3 @@
 
+1: Simulate the Stop and Wait Protocol using client-server communication model of TCP
+2: Simulate the Sliding Window Protocol using client-server communication model of TCP
